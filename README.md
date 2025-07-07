@@ -8,5 +8,6 @@ OSSOCHAIN is engineered to be a safe harbor in the chaos of modern crypto.
 Fully decentralized. Non-custodial. Non-traceable. 
 OSSOCHAIN enables secure peer-to-peer value transfer, time-locked contracts, anonymous
 staking, and inheritable ownership. 
-It is more than a tokenâ€”it is a symbolic asset, a vault, and a legacy you can pass on.
+It is more than a token
+Secure symbolic asset, a vault, and a legacy you can pass on.
 Built to last. Designed for privacy. Trusted by time.
